@@ -1,0 +1,67 @@
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RegisterForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LessonForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Grammar.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VocabularyForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GrammarTest.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VocabularyTest.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Grammar.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VocabularyForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LessonForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RegisterForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GrammarTest.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VocabularyTest.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Grammar.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VocabularyForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LessonForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RegisterForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\hoang\source\repos\WindowsFormsApp2 - Copy - Copy\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GrammarTest.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VocabularyTest.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Grammar.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VocabularyForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LessonForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RegisterForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.StudentGrade.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TeacherForm.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Admin.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.StudentAcc.resources
+C:\Users\hoang\source\repos\WindowsFormsApp2 (Test)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TeacherAcc.resources
